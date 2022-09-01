@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Data-List/static/css/main.3c203761.css",
+    "main.js": "/ReactJs-Data-List/static/js/main.eae2f7ca.js",
+    "index.html": "/ReactJs-Data-List/index.html",
+    "main.3c203761.css.map": "/ReactJs-Data-List/static/css/main.3c203761.css.map",
+    "main.eae2f7ca.js.map": "/ReactJs-Data-List/static/js/main.eae2f7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c203761.css",
+    "static/js/main.eae2f7ca.js"
+  ]
+}
