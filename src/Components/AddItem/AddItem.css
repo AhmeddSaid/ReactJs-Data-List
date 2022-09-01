@@ -1,0 +1,38 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  background-color: #243447;
+  width: 800px;
+  margin: 50px auto;
+  padding: 10px 20px;
+  border: 2px solid #9d0a7f;
+  border-radius: 16px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.input input {
+  display: inline-block;
+  font-size: 28px;
+  width: 230px;
+  margin: 10px 10px auto;
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #9d0a7f;
+  border-radius: 8px;
+  text-align: center;
+  outline: none;
+  caret-color: #9d0a7f;
+  
+}
+
+.input .submit {
+  display: block;
+  text-align: center;
+  margin: 20px auto 5px;
+  border: 2px solid #9d0a7f;
+  border-radius: 16px;
+  color: #c51f5d;
+}
